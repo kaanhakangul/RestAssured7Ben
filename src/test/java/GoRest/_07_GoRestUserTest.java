@@ -13,7 +13,7 @@ import java.util.Map;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-public class GoRestUsersTest {
+public class _07_GoRestUserTest {
     RequestSpecification reqSpec;
     Faker randomUreticisi = new Faker();
     String randomName;
